@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Iskandar Giusti]]></title>
+        <description><![CDATA[Iskandar Giusti]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 20 Feb 2016 15:33:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>First Post</p>]]></description>
+            <link>undefined3cc07781-02f6-4d74-88c8-05d4abba770f/index.html</link>
+            <guid isPermaLink="false">3cc07781-02f6-4d74-88c8-05d4abba770f</guid>
+            <pubDate>Sat, 20 Feb 2016 15:33:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
