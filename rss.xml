@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Villa at Tambak Sari, Sanur]]></title>
         <description><![CDATA[Villa at Tambak Sari, Sanur]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/iskandar-giusti/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 08:02:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 23 Feb 2016 00:20:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/iskandar-giusti/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d3e51a0-cb2e-47e5-98e9-d275874915f2.JPG">]]></description>
+            <link>https://thegrid.ai/iskandar-giusti/78e09c5d-c210-4c64-9e0e-37b99699d807/index.html</link>
+            <guid isPermaLink="false">78e09c5d-c210-4c64-9e0e-37b99699d807</guid>
+            <pubDate>Tue, 23 Feb 2016 00:20:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d3a8b4e-878e-4e95-a3c1-089fedd77e72.JPG">]]></description>
-            <link>undefined854fac73-efa8-4e11-9ca3-c6f70ca4e20b/index.html</link>
+            <link>https://thegrid.ai/iskandar-giusti/854fac73-efa8-4e11-9ca3-c6f70ca4e20b/index.html</link>
             <guid isPermaLink="false">854fac73-efa8-4e11-9ca3-c6f70ca4e20b</guid>
             <pubDate>Mon, 22 Feb 2016 08:01:29 GMT</pubDate>
         </item>
